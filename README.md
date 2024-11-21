@@ -1,7 +1,7 @@
 # Sergio Liceu  📖 
 ## Carpetas Clase
-### ipo
-### montaje
-### ofimatica
-### redes
-### sistemas
+- ### ipo
+- ### montaje
+- ### ofimatica
+- ### redes
+- ### sistemas
