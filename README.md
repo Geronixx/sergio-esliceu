@@ -14,7 +14,7 @@ Aqui veremos Documentos relacionados con las redes y las telecomunicaciones
 Aqui veremos los Documentos relacionados con los sistemas y ver como funciona
 ## ¿Como he hecho esto? 🎥
 Aqui teneis el enlace del video que he seguido:[MarkDown](https://www.youtube.com/watch?v=_hI14xuvQag&authuser=0)
-Siguiendo este video podreis hacer y decorar vuestros depositorio de GITHUB, ademas aprendereis comandos para usar en el Visual Studio 
+- Siguiendo este video podreis hacer y decorar vuestros depositorio de GITHUB, ademas aprendereis comandos para usar en el Visual Studio 
 ## Objetivos 💡
 - Aprender a usar el GITHUB
 - Como hacer repositorios en GITHUB 
