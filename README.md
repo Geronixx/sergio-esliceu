@@ -1,6 +1,6 @@
 # Sergio Liceu  📖 
-Hola soy **Sergio** alumno del Liceu de **SMX**. En este repositorio encontraras lo necesario para conocer los distintos modulos 👨‍💼
-## Carpetas Clase📥
+Hola soy **Sergio** alumno del Liceu de **SMX**. En este repositorio encontraras lo necesario para conocer los distintos modulos. Aprenderas a usar y familiarizarte con esta aplicaion **GITHUB**  👨‍💼
+## Carpetas Modulos 📥
 Aqui tendremos las carpetas relacionadas con la clase:
 - 📂**Ipo** 
 Aqui veremos todo tipo de Documentos relacionos con temas del trabajo
