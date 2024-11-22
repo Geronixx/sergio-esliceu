@@ -15,8 +15,7 @@ Aqui veremos los Documentos relacionados con los sistemas y ver como funciona
 ## ¿Como he hecho esto? 🎥
 Aqui teneis el enlace del video que he seguido:[MarkDown](https://www.youtube.com/watch?v=_hI14xuvQag&authuser=0)
 ## Objetivos 💡
--Aprender a usar el GITHUB
--Como hacer repositorios en GITHUB 
--Familiarizarse con el Visual Studio 
--Conocer más comandos 
-
+- Aprender a usar el GITHUB
+- Como hacer repositorios en GITHUB 
+- Familiarizarse con el Visual Studio 
+- Aprender mas comandos en Visual Studio 
