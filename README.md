@@ -12,5 +12,11 @@ Aqui veremos todo tipo de Documentos relacionados con la ofimatica
 Aqui veremos Documentos relacionados con las redes y las telecomunicaciones
 - 📂**Sistemas**
 Aqui veremos los Documentos relacionados con los sistemas y ver como funciona
-## ¿Como he hecho esto? 
+## ¿Como he hecho esto? 🎥
 Aqui teneis el enlace del video que he seguido:[MarkDown](https://www.youtube.com/watch?v=_hI14xuvQag&authuser=0)
+## Objetivos 💡
+-Aprender a usar el GITHUB
+-Como hacer repositorios en GITHUB 
+-Familiarizarse con el Visual Studio 
+-Conocer más comandos 
+
